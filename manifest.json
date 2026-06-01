@@ -20,13 +20,13 @@
   "screenshots":[
     {
       "src":"https://priyanka-nigam.github.io/interviewPrepsManifest/desktop.png",
-      "sizes":"1366x768",
+      "sizes":"1280x720",
       "type":"image/png",
       "form_factor":"wide"
     },
     {
       "src":"https://priyanka-nigam.github.io/interviewPrepsManifest/mobile.png",
-      "sizes":"1080x1920",
+      "sizes":"940x960",
       "type":"image/png"
     }
   ],
