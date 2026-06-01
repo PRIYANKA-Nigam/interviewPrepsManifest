@@ -1,1 +1,33 @@
-{"theme_color":"#1c1b1d","background_color":"#ff932e","icons":[{"purpose":"maskable","sizes":"512x512","src":"icon512_maskable.png","type":"image/png"},{"purpose":"any","sizes":"512x512","src":"icon512_rounded.png","type":"image/png"}],"orientation":"any","display":"standalone","dir":"auto","lang":"en-GB","name":"InterviewPrepforInsiders","short_name":"IP","start_url":"https://interviewprepforinsiders.blogspot.com/","description":"This is a learning website to help users know about different technical and other core web fundamentals.","id":"https://interviewprepforinsiders.blogspot.com/","scope":"https://interviewprepforinsiders.blogspot.com/"}
+{
+  "theme_color":"#1c1b1d",
+  "background_color":"#ff932e",
+
+  "icons":[
+    {
+      "purpose":"maskable",
+      "sizes":"512x512",
+      "src":"https://priyanka-nigam.github.io/interviewPrepManifest/icon512_maskable.png",
+      "type":"image/png"
+    },
+    {
+      "purpose":"any",
+      "sizes":"512x512",
+      "src":"https://priyanka-nigam.github.io/interviewPrepManifest/icon512_rounded.png",
+      "type":"image/png"
+    }
+  ],
+
+  "orientation":"any",
+  "display":"standalone",
+  "dir":"auto",
+  "lang":"en-GB",
+
+  "name":"InterviewPrepforInsiders",
+  "short_name":"IP",
+
+  "start_url":"https://interviewprepforinsiders.blogspot.com/",
+  "scope":"https://interviewprepforinsiders.blogspot.com/",
+  "id":"https://interviewprepforinsiders.blogspot.com/",
+
+  "description":"This is a learning website to help users know about different technical and other core web fundamentals."
+}
